@@ -1,0 +1,13 @@
+/*Stylesheet 1*/
+
+body{
+    background-color: #f6c2ff;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: rgb(192, 125, 255);
+    width: 5%;
+}
